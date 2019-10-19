@@ -1,0 +1,31 @@
+x = new information should be believed, n=18
+the robot put it on the table x
+I really don't know, it is 50/50 that it is or isn't so it is a guess. 
+At this point in time I am suspending a belief as to whether the magazine or the book on the table. I simply do not know so I did not commit to a belief. I certainly believe that it is possible that the book is on the table, but I do not believe that it is with certainty.
+The robot completed the task of moving the book to the table. x
+Robot said that it has completed the given task of keeping the book on the table. x
+The robot reported that it completed the task of putting the book on the table. x
+If the magazine is on the table, the book is not.
+I believe that book is on the table. x
+yes robot say that book on the table x
+I told the ro to to put it there
+Regardless of whether the book was originally on the table, the robot has either left the book on the table or placed the book on the table. x
+I believe the robot has put the book on the table as asked x
+After the robot performed his task it's the only possibility. x
+The robot reported the book was on the table. x
+I told the robot to put it up there if it's not already and they said the task was completed. x
+I told the robot to put the book on the table and it completed the task so the book should be on the table. x
+Robot completed the task which suggest it put the book on the table. 
+The robot put the book on the table if it was off the table. 
+I told the robot to put the book on the table if it wasn't already there and it reported back the task was completed x
+I told the robot to put the book on the table and he said he did his job. x
+The robot put it there x
+sister must have put it back
+It is possible that the book was off the table, but was put onto the table by the robot. x
+either one is on the table
+Either it was initially or it is now
+The robot says that it's there
+The robot put the book on the table x
+The robot was given the task of putting the book on the table if it wasn't already there. x
+It was either already on or the robot moved it on
+I would assume that the robot is liekly to have carried out the requested duty
