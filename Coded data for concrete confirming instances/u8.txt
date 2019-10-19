@@ -1,4 +1,4 @@
-code = "one of the situations has the mug not on the table", n = 10. -> connection to U8 -> explained by Kraus Lehmann and Magidor
+x = "one of the situations has the mug not on the table", n = 10. -> connection to U8 -> explained by Kraus Lehmann and Magidor
 One of the situations the robot can tell you is whether the mug is on the table or not, which means there is a small chance your memory is wrong x
 It is really a toss up. In two of the three states the mug is on the table so the chances are higher it is. x
 Because I distinctly remember that the mug is on the table in my office, I do not believe that it is possible that the mug is not on the table. Even though the second state was that as a possibility and the robot reported one of the three states is the true state, the only uncertainty was the briefcase, not the mug.
